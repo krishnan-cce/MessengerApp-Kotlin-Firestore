@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#00B2FF</color>
+    <color name="purple_700">#00B2FF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+
+    <color name="shimmerGrey">#c0c0c0  </color>
+
+    <color name="colorPrimary">#363636</color>
+    <color name="colorPrimaryDark">#363636</color>
+    <color name="colorAccent">#f5820c</color>
+
+    <color name="successGreen">#4BB543</color>
+    <color name="errorRed">#ff0000</color>
+
+    <color name="messengerBlueDark">#006AFF</color>
+    <color name="messengerBlueLight">#00B2FF</color>
+</resources>

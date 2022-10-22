@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    >
+
+
+
+    <TextView
+        android:id="@+id/show_dairy_header"
+        android:text="Header"
+        android:layout_width="200dp"
+        android:layout_marginTop="2dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="30dp"
+        android:textColor="@color/errorRed"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Today was horrible and terrible "
+        android:id="@+id/show_dairy_content"
+        android:layout_width="200dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="41dp"
+        android:textColor="@color/successGreen"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+    <TextView
+        android:text="10-Oct-2022 9:45PM"
+        android:id="@+id/show_dairy_date"
+        android:layout_width="200dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="66dp"
+        android:textColor="@color/black"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/show_dairy_image"
+
+        android:layout_marginTop="15dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="230dp"
+        app:srcCompat="@drawable/profile_icon" />
+
+    <TextView
+        android:id="@+id/show_dairy_publisher"
+        android:layout_width="200dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="90dp"
+        android:text="username"
+        android:textColor="@color/black"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+</androidx.cardview.widget.CardView>
