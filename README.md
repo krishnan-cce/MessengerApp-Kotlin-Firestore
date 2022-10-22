@@ -26,6 +26,7 @@
 
 <h3># Realtime Messaging</h3>
 <h3># Text & Image Messaging</h3>
+<h3># Show Total Messages including Unreaded Message</h3>
 <h3># View Online and Offline Status</h3>
 <h3># Sent , Seen & Received Message Features</h3>
 <h3># Shimmer effects added</h3>
