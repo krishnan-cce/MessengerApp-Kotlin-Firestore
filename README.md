@@ -2,6 +2,11 @@
 
 <h1>Unitto Messenger</h1>
 
+<head>
+<title>Screen Shots</title>
+</head> 
+<body>
+<div id="Unitto Messenger">
 <img src ="images/img1.jpeg" width="150"/>
 
 <img src ="images/img2.jpeg" width="150"/>
@@ -11,3 +16,6 @@
 <img src ="images/img4.jpeg" width="150"/>
 
 <img src ="images/img5.jpeg" width="150"/>
+</div>
+</body>
+</html>
