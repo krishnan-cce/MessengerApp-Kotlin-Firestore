@@ -2,4 +2,4 @@
 
 <h1>Unitto Messenger</h1>
 
-<img src ="images/img1.jpeg" width="100/>
+<img src ="images/img1.jpeg" width="100"/>
