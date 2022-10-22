@@ -24,7 +24,7 @@
 
 <h2>Features</h2>
 
-<h3># Realtime Messaging</h3>
+<h3># Realtime Messaging using Firestore and Kotlin as Backend</h3>
 <h3># Text & Image Messaging</h3>
 <h3># Show Total Messages including Unreaded Message</h3>
 <h3># View Online and Offline Status</h3>
